@@ -3,6 +3,7 @@ package operators;
 
 public class Multiplier {
 
+
     public static int multiply(int multiplier1, int multiplier2) {
         if (multiplier2 > 1 && multiplier2 <= 1000)
         {
